@@ -21,3 +21,6 @@ The project implements a simple Peer Tutoring System using a menu-based command-
 
 ## IMPORTANT NOTE
 This project was completed as a group academic project as part of university coursework.
+
+### UML Class Diagram
+![UML Class Diagram](DS_UMLdiagram.JPEG)
